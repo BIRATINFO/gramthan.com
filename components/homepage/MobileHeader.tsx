@@ -42,7 +42,7 @@ export default function MobileHeader({
                     <div className='relative h-10 w-[40px]'>
                         <Image
                             src='/logo.svg'
-                            alt='DigitalKoshi Logo'
+                            alt='Gramthan Logo'
                             fill
                             className='object-contain'
                             priority
@@ -50,8 +50,8 @@ export default function MobileHeader({
                     </div>
                     <div className='relative h-10 w-[120px]'>
                         <Image
-                            src='/DIGITALKOSHI.svg'
-                            alt='DigitalKoshi Text Logo'
+                            src='/GRAMTHAN.svg'
+                            alt='Gramthan Text Logo'
                             fill
                             className='object-contain'
                             priority
